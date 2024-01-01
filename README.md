@@ -17,13 +17,13 @@
 
 # How to Use
 
- - Download:
+ - Download
 
  - Clone the repository using git clone https://github.com/rsimeon22/gamepad-tester.git
 
  - Alternatively, download the latest release from the Releases page.
 
- - Run:
+ - Run
 
  - Execute the application on your platform (e.g., gamepad-tester.exe for Windows, gamepad-tester.app for macOS).
 
